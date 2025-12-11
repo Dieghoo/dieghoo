@@ -132,3 +132,21 @@ The aesthetics of memory and nostalgia.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dieghoo.dieghoo&left_color=blueviolet&right_color=ff69b4)
 
 </div>
+
+---
+
+### `> THE VISION`
+
+```
+RMagnet → Captures Ableton sessions → Feeds AI → AI learns creative patterns → New forms of music/art emerge
+```
+
+*We're not just creating art. We're creating the meta-tools that will enable AI to participate in the creative process.*
+
+---
+
+<div align="center">
+
+## ☺
+
+</div>
