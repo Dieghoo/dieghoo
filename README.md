@@ -123,12 +123,6 @@ The aesthetics of memory and nostalgia.
 
 <div align="center">
 
-*"We are the music makers, and we are the dreamers of dreams."*
-
-**— Arthur O'Shaughnessy**
-
----
-
 *"The future is already here – it's just not evenly distributed."*
 
 **— William Gibson**
