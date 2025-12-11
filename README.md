@@ -2,12 +2,12 @@
 
 # ＤＩＥＧＨＯＯ // DHPARADOX
 
-### `> SIGNAL ARTIST // PSYCHONAUT // VJ // GAME DEV`
+### `> SIGNAL PROCESING // Psychoacoustics `
 
 ```
 ┌─────────────────────────────────────────────────────────┐
 │ [SYSTEM ONLINE] >> TRANSMITTING FROM BRAZIL 🇧🇷         │
-│ [STATUS] >> CREATING REALITIES THROUGH CODE & SOUND    │
+│ [STATUS] >> NAVIGATING REALMS THROUGH CODE & SOUND    │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -28,9 +28,9 @@ fn main() {
 }
 ```
 
-**🔭 `ACTIVE_PROJECT`**: Building **RMagnet** — Real-time desktop session monitoring for Ableton Live. Capturing the ephemeral signals of creation.
+**🔭 `ACTIVE_PROJECT`**: Building **RMagnet** — Real-time desktop session monitoring for Ableton Live. Capturing Ableton Sessions to feed AI systems.
 
-**🌱 `LEARNING_PATH`**: Deep in the matrix of **DSP**, exploring audio synthesis, VJing, real-time visual processing, and the art of signal manipulation.
+**🌱 `LEARNING_PATH`**: **DSP**, exploring audio synthesis, real-time visual processing, and the art of signal manipulation.
 
 **⚡ `POWERED_BY`**: Rust, Python, C++, GLSL, TouchDesigner, Ableton Live, Max for Live, Unreal Engine.
 
@@ -43,10 +43,10 @@ fn main() {
 <td width="50%">
 
 **`SIGNAL PROCESSING`**
-Manipulating waveforms to create new realities. From psytrance basslines to generative soundscapes. The frequency domain is my canvas.
+From psytrance to generative soundscapes. The frequency domain our canvas.
 
 **`VISUAL ARTS (VJ)`**
-Painting with light. Synchronizing visuals with sound to create immersive, synesthetic experiences. Real-time rendering of the unconscious.
+Painting with light. Synchronizing visuals with sound to create immersive, synesthetic experiences. Real-time rendering from another reality.
 
 </td>
 <td width="50%">
@@ -55,7 +55,7 @@ Painting with light. Synchronizing visuals with sound to create immersive, synes
 Building interactive worlds. Exploring the intersection of art, music, and code. Cyberpunk narratives and procedural generation.
 
 **`VAPORWAVE AESTHETICS`**
-Neon-drenched cityscapes, glitch art, and the beauty of digital decay. The aesthetics of memory and nostalgia.
+The aesthetics of memory and nostalgia.
 
 </td>
 </tr>
